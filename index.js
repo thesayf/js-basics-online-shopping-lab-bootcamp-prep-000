@@ -11,6 +11,11 @@ function setCart(c) {
 
 function addToCart(item) {
  // write your code here
+ 
+ while (items < 10)
+ 
+ items.push
+ 
 }
 
 function viewCart() {
